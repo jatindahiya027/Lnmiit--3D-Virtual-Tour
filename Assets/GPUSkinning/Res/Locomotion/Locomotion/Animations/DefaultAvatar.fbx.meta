@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 34ba3f5e79f87c24ba389c1ea90d0728
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 22200
   internalIDToNameTable:
   - first:
       1: 100000
@@ -616,6 +616,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -626,17 +627,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips:
   - 7847a718e34f0144d8a80fd38719d3fc
-  - 3bfc22ca4e55d4945b26a68767a7ed04
-  - cfcbdbb570f3dbb4f83ea58a11a6b3dc
-  - 70c1090edfd793444a0533e45c74dfad
-  - b91538e479ab6674b9add373ee187e73
-  - 8407da70ff040024c89210d278027cd5
-  - 4bce5053d43b2314f9172f674c40f4ed
-  - 4ee731d726c3dd34eb36806ea0d8fe98
-  - 97ed8b6746cfea54bba4d51b7719bf6d
-  - 6da89662649b53c49b06616f51157b48
-  - 156143303594e3b4cb345ec819099951
-  - 6bb9737c88e5309458a1e0e764137dfd
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
@@ -1487,6 +1477,8 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 1
   userData: 
   assetBundleName: 
